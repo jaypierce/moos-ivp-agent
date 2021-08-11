@@ -33,7 +33,7 @@ The first task is to launch the `run.py` script (inside `examples/pLearn/model`)
 
 ```
 cd examples/pLearn/model
-./run.py --model trained/my_model/iteration_39
+./run.py --model trained/trained_attacker/iteration_50
 ```
 
 **NOTE:** If no model is provided, the `run.py` script will run the model in the `trained/topModel/model` directory.
