@@ -23,7 +23,7 @@ def run_model(args):
         'speed': 0.0,
         'course': 0.0,
         'posts': { # This will only be sent the first time, after that it is turrned off
-            'EPISODE_MNGR_CTRL': 'type=start'
+            #'EPISODE_MNGR_CTRL': 'type=start' //--------------uncomment for restarting robot
         },
         'ctrl_msg': 'SEND_STATE'
     }

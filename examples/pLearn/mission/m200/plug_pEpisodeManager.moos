@@ -12,6 +12,7 @@ ProcessConfig = pEpisodeManager
   paused = true
   max_duration = 100
 #endif
+  paused = true //----------remove for restarting robot
 
   start_post = var=DEPLOY,val=true
 

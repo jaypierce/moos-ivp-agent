@@ -39,7 +39,7 @@ set MODE     = STATIONNING {
     pwt  = 100
     perpetual = true
 
-    condition = MODE == ACTIVE
+    condition = MODE == ATTACKING //---------"ACTIVE" for restarting robot
 
     sub_vehicle = evan
     sub_var = TAGGED
