@@ -1,0 +1,102 @@
+
+ iteration_0:  avg reward: -1934.25771224 pct time inbounds: 0.964285714286 pct captured: 0.0
+
+ iteration_1:  avg reward: -2256.30169424 pct time inbounds: 0.954918032787 pct captured: 0.0
+
+ iteration_2:  avg reward: -2191.58340032 pct time inbounds: 0.95154185022 pct captured: 0.0
+
+ iteration_3:  avg reward: -2718.04440336 pct time inbounds: 0.953974895397 pct captured: 0.0
+
+ iteration_4:  avg reward: -2519.29631247 pct time inbounds: 0.966101694915 pct captured: 0.0
+
+ iteration_5:  avg reward: -2525.5735604 pct time inbounds: 0.952755905512 pct captured: 0.0
+
+ iteration_6:  avg reward: -2309.90542922 pct time inbounds: 0.966386554622 pct captured: 0.0
+
+ iteration_7:  avg reward: -2460.84830083 pct time inbounds: 0.947368421053 pct captured: 0.0
+
+ iteration_8:  avg reward: -2232.69589234 pct time inbounds: 0.96442687747 pct captured: 0.0
+
+ iteration_9:  avg reward: -3153.53000468 pct time inbounds: 0.95785440613 pct captured: 0.0
+
+ iteration_10:  avg reward: -2565.34409704 pct time inbounds: 0.9625 pct captured: 0.0
+
+ iteration_11:  avg reward: -2348.27677275 pct time inbounds: 0.969111969112 pct captured: 0.0
+
+ iteration_12:  avg reward: -2296.66865706 pct time inbounds: 0.974074074074 pct captured: 0.0
+
+ iteration_13:  avg reward: -2197.80509417 pct time inbounds: 0.968181818182 pct captured: 0.0
+
+ iteration_14:  avg reward: -2752.47902825 pct time inbounds: 0.969283276451 pct captured: 0.0
+
+ iteration_15:  avg reward: -1578.51612536 pct time inbounds: 0.978723404255 pct captured: 0.0
+
+ iteration_16:  avg reward: -2293.68834627 pct time inbounds: 0.973384030418 pct captured: 0.0
+
+ iteration_17:  avg reward: -2802.77048962 pct time inbounds: 0.967346938776 pct captured: 0.0
+
+ iteration_18:  avg reward: -2020.4543899 pct time inbounds: 0.964143426295 pct captured: 0.0
+
+ iteration_19:  avg reward: -2440.50458617 pct time inbounds: 0.96170212766 pct captured: 0.0
+
+ iteration_20:  avg reward: -2676.60606508 pct time inbounds: 0.977186311787 pct captured: 0.0
+
+ iteration_21:  avg reward: -2624.02383446 pct time inbounds: 0.962121212121 pct captured: 0.0
+
+ iteration_22:  avg reward: -3171.86846888 pct time inbounds: 0.969348659004 pct captured: 0.0
+
+ iteration_23:  avg reward: -2765.14984574 pct time inbounds: 0.972 pct captured: 0.0
+
+ iteration_24:  avg reward: -2252.06672249 pct time inbounds: 0.962121212121 pct captured: 0.0
+
+ iteration_25:  avg reward: -2537.76328949 pct time inbounds: 0.955156950673 pct captured: 0.0
+
+ iteration_26:  avg reward: -2664.99433452 pct time inbounds: 0.937799043062 pct captured: 0.0
+
+ iteration_27:  avg reward: -2187.80100798 pct time inbounds: 0.969581749049 pct captured: 0.0
+
+ iteration_28:  avg reward: -3457.12263372 pct time inbounds: 0.968871595331 pct captured: 0.0
+
+ iteration_29:  avg reward: -4211.00701927 pct time inbounds: 0.955882352941 pct captured: 0.0
+
+ iteration_30:  avg reward: -2767.2366453 pct time inbounds: 0.965779467681 pct captured: 0.0
+
+ iteration_31:  avg reward: -2441.50972795 pct time inbounds: 0.95154185022 pct captured: 0.0
+
+ iteration_32:  avg reward: -2222.97181836 pct time inbounds: 0.952586206897 pct captured: 0.0
+
+ iteration_33:  avg reward: -4432.15044749 pct time inbounds: 0.988679245283 pct captured: 0.0
+
+ iteration_34:  avg reward: -3416.11462125 pct time inbounds: 0.960288808664 pct captured: 0.0
+
+ iteration_35:  avg reward: -2599.69069696 pct time inbounds: 0.968641114983 pct captured: 0.0
+
+ iteration_36:  avg reward: -2319.58986125 pct time inbounds: 0.970260223048 pct captured: 0.0
+
+ iteration_37:  avg reward: -2576.71860252 pct time inbounds: 0.966911764706 pct captured: 0.0
+
+ iteration_38:  avg reward: -1589.21927915 pct time inbounds: 0.97602739726 pct captured: 0.0
+
+ iteration_39:  avg reward: -1746.50827667 pct time inbounds: 0.970149253731 pct captured: 0.0
+
+ iteration_40:  avg reward: -1973.36604078 pct time inbounds: 0.962546816479 pct captured: 0.0
+
+ iteration_41:  avg reward: -1732.32305113 pct time inbounds: 0.962264150943 pct captured: 0.0
+
+ iteration_42:  avg reward: -1937.76558405 pct time inbounds: 0.966417910448 pct captured: 0.0
+
+ iteration_43:  avg reward: -1749.92766679 pct time inbounds: 0.977443609023 pct captured: 0.0
+
+ iteration_44:  avg reward: -2769.57384506 pct time inbounds: 0.959677419355 pct captured: 0.0
+
+ iteration_45:  avg reward: -1825.00289055 pct time inbounds: 0.96484375 pct captured: 0.0
+
+ iteration_46:  avg reward: -1548.77739069 pct time inbounds: 0.973782771536 pct captured: 0.0
+
+ iteration_47:  avg reward: -1672.2276061 pct time inbounds: 0.971544715447 pct captured: 0.0
+
+ iteration_48:  avg reward: -1820.08605249 pct time inbounds: 0.966542750929 pct captured: 0.0
+
+ iteration_49:  avg reward: -1848.39205495 pct time inbounds: 0.970802919708 pct captured: 0.0
+
+ iteration_50:  avg reward: 5414.73021483 pct time inbounds: 0.985915492958 pct captured: 0.0

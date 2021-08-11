@@ -1,0 +1,39 @@
+State Definition: 
+ 
+   lowerBound: index= 8, type= distance, var= lowerBound, var_mod= self, standardized= False, range= (0, 200), bucket= 1
+   enemy_dist: index= 9, type= distance, var= player, var_mod= self, standardized= False, range= (0, 200), bucket= 1
+   enemy_heading: index= 11, type= raw, var= heading, var_mod= self, standardized= False, range= (0, 360), bucket= 1
+   color: index= 4, type= binary, var= team, var_mod= self
+   rightBound: index= 6, type= distance, var= rightBound, var_mod= self, standardized= False, range= (0, 200), bucket= 1
+   leftBound: index= 5, type= distance, var= leftBound, var_mod= self, standardized= False, range= (0, 200), bucket= 1
+   upperBound: index= 7, type= distance, var= upperBound, var_mod= self, standardized= False, range= (0, 200), bucket= 1
+   flag_dist: index= 1, type= distance, var= flag, var_mod= enemy, standardized= False, range= (0, 200), bucket= 1
+   enemy_angle: index= 10, type= angle, var= player, var_mod= self, standardized= False, range= (0, 360), bucket= 1
+   flag_theta: index= 2, type= angle, var= flag, var_mod= enemy, standardized= False, range= (0, 360), bucket= 1
+   heading: index= 3, type= raw, var= heading, var_mod= self, standardized= False, range= (0, 360), bucket= 1
+   out: index= 0, type= binary, var= tagged, var_mod= self
+
+Neural Net Parameters: 
+ 
+   num_layers= 2
+   num_units= 10
+   num_traj= 1
+   iterations= 200
+   learning_rate= 0.005
+   epsilon_min= 0.01
+   epsilon_initial= 1
+   epsilon_decay= 0.98
+   epochs= 2
+   batch_size= 2
+   algorithm_type= fitted
+ 
+Action and Reward Parameters: 
+ 
+   speeds= [2]
+   relative= False
+   theta_size_act= 60
+   disctount_factor= 0.999
+   max_reward= 100
+   neg_reward= -50
+   reward_dropoff= 0.96
+   max_reward_radius= 10
