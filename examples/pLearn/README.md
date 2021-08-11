@@ -52,7 +52,7 @@ Most time warps should work. After the GUI window pops up, you can push the `DEP
 The moos-ivp-agent implementation of pLearn comes equipped with some visualizations to provide insight into pLearn models. Using the `--debug` flag.
 
 ```
-./run.py --model trained/my_model/iteration_39 --debug
+./run.py --model trained/trained_attacker/iteration_50 --debug
 ```
 
 Similarly to the normal usage of the run script, you will need to launch the moos-ivp simulation separately.
