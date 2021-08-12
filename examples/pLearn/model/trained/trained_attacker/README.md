@@ -1,1 +1,1 @@
-![DebuggingDemo](../../assets/attacking_demo.gif)
+![Attacking Demo](../../assets/attacking_demo.gif)
